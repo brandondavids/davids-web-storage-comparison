@@ -4,8 +4,8 @@
 Data disimpan, lalu browser ditutup sepenuhnya.
 - Cookies: [**masih ada** / hilang]
 - LocalStorage: [**masih ada** / hilang]
-- SessionStorage: [masih ada / **hilang**] \
-<br />
+- SessionStorage: [masih ada / **hilang**]
+<br /> \
 ![experiment1](screenshots/Experiment%201/1.png)
 
 ## EXPERIMENT 2: Tab Isolation
@@ -13,7 +13,7 @@ Data disimpan, lalu browser ditutup sepenuhnya.
 Nilai counter di tab baru: 0 \
 <br />
 *Tab lama*
-![experiment2b](screenshots/Experiment%202/2b.png) \
+![experiment2b](screenshots/Experiment%202/2b.png)
 *Tab baru*
 ![experiment2](screenshots/Experiment%202/2.png) \
 <br />
@@ -21,7 +21,7 @@ Nilai counter di tab baru: 0 \
 Nilai counter di tab lama: 5 \
 <br />
 *Tab baru*
-![experiment2a](screenshots/Experiment%202/2a.png) \
+![experiment2a](screenshots/Experiment%202/2a.png)
 *Tab lama*
 ![experiment2b](screenshots/Experiment%202/2b.png) \
 <br />
