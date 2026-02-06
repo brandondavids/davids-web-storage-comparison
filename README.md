@@ -18,13 +18,13 @@ Nilai counter di tab baru: 0 \
 ![experiment2](screenshots/Experiment%202/2.png) \
 <br />
 2. Increment 3 kali di tab baru \
-Nilai counter di tab lama: 5 \
-<br />
+Nilai counter di tab lama: 5
+<br /> \
 *Tab baru*
 ![experiment2a](screenshots/Experiment%202/2a.png)
 *Tab lama*
-![experiment2b](screenshots/Experiment%202/2b.png) \
-<br />
+![experiment2b](screenshots/Experiment%202/2b.png)
+<br /> \
 **Kesimpulan:** \
 SessionStorage adalah **tab-isolated**.
 
