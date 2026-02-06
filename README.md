@@ -10,8 +10,8 @@ Data disimpan, lalu browser ditutup sepenuhnya.
 
 ## EXPERIMENT 2: Tab Isolation
 1. Increment 5 kali pada Tab Counter \
-Nilai counter di tab baru: 0 \
-<br />
+Nilai counter di tab baru: 0
+<br /> \
 *Tab lama*
 ![experiment2b](screenshots/Experiment%202/2b.png)
 *Tab baru*
