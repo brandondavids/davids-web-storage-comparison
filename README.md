@@ -15,8 +15,8 @@ Nilai counter di tab baru: 0
 *Tab lama*
 ![experiment2b](screenshots/Experiment%202/2b.png)
 *Tab baru*
-![experiment2](screenshots/Experiment%202/2.png) \
-<br />
+![experiment2](screenshots/Experiment%202/2.png)
+<br /> \
 2. Increment 3 kali di tab baru \
 Nilai counter di tab lama: 5
 <br /> \
